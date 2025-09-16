@@ -1,0 +1,11 @@
+edge-tts
+nest-asyncio
+praw
+gTTS
+moviepy
+pillow
+git+https://github.com/openai/whisper.git
+faster-whisper
+ctranslate2
+pyspellchecker
+language-tool-python
